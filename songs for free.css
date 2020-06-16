@@ -1,0 +1,46 @@
+.container-fluid{
+	background-color: green;
+	height: 750px;
+	width: 100%;
+		font-family: 'Montserrat', sans-serif;
+}
+hr{
+max-width: 15%;
+border-color: #F05F44;
+border-width: 3px;
+}
+.faded {
+	color: rgba(255,255,255,0.8);
+}
+.container-fluid{
+background-image: url(https://buffer.com/library/content/images/size/w1200/library/wp-content/uploads/2017/09/13-Places-to-Find-Background-Music-for-Video-Cover-Image-2.jpg);
+background-size: cover;
+background-position: center;
+}
+header.startup hr{
+	margin-top: 200px;
+	margin-bottom: 30px;
+}
+header.startup h1{
+	font-size: 2rem;
+	margin-top: 7%;
+}
+.btn{
+	font-weight: 700;
+	text-transform: uppercase;
+	border-radius: 300px;
+	  font-family: 'Montserrat', sans-serif;
+}
+.btn-xl{
+	padding: 1rem 2rem;
+}
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44; 
+}
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
